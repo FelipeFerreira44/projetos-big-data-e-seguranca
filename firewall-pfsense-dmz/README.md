@@ -21,7 +21,7 @@ Três redes interligadas pelo pfSense:
 Os testes foram feitos a partir das VMs: `curl` e `ssh` do PC ao Webserver, `nslookup` com servidor DNS externo.
 A regra da WAN foi configurada, mas **não foi testada** por limitações de rede do VirtualBox.
 
-(Adicione aqui os prints dos testes na pasta `evidencias/`.)
+
 
 ## Tecnologias
 pfSense, VirtualBox, regras de firewall, DMZ, DHCP, DNS, HTTP/SSH.
